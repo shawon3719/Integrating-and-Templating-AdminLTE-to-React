@@ -12,7 +12,7 @@ export default function Footer() {
           <b>Version</b> 3.1.0-pre
         </div>
       </footer>
-      &gt;
+      {/* &gt; */}
     </div>
   );
 }
